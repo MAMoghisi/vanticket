@@ -1,0 +1,11 @@
+{
+    "name": "m/ticket",
+    "type": "project",
+    "authors": [
+        {
+            "name": "MA Moghisi",
+            "email": "MA_Moghisi@hotmail.com"
+        }
+    ],
+    "require": {}
+}
